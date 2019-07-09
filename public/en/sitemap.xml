@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://calmurgu.com/about/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/__index/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/cv/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://calmurgu.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://calmurgu.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2019/02/its-time-to-go-jeff/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2018/07/on-library-jobs/</loc>
+    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2017/07/on-conflating-values/</loc>
+    <lastmod>2017-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2017/06/on-metrics-and-acknowledgement-texts/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2017/05/mother-tongues/</loc>
+    <lastmod>2017-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2017/04/on-dh-and-digital-archives/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2016/11/the-new-trump-library/</loc>
+    <lastmod>2016-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2016/07/long-distance-grieving/</loc>
+    <lastmod>2016-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2016/07/on-leaving-montreal/</loc>
+    <lastmod>2016-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2016/06/on-returning-home/</loc>
+    <lastmod>2016-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2016/01/on-trying-to-get-it-right/</loc>
+    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2015/12/the-humanities-arent-booming.-thats-okay./</loc>
+    <lastmod>2015-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://calmurgu.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://calmurgu.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://calmurgu.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://calmurgu.com/tags/"
+                />
+  </url>
+  
+</urlset>
