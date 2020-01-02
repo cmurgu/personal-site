@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cal Murgu</title>
@@ -6,10 +6,42 @@
     <description>Recent content on Cal Murgu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://calmurgu.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Confessions of a reformed Omeka acolyte. Minimalist options for digital exhibitions</title>
+      <link>https://calmurgu.com/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</guid>
+      <description>While a Digital Projects Coordinator at the University of Windsor in 2015-16, I remember thinking that Omeka would revolutionize the way we create and teach about digital exhibits, metadata, and the subtle acts involved in digital collecting. Here was a relatively lightweight CMS that enabled us to spin up new instances almost immediately. With set-up a breeze, we could focus our attention on the intellectual work of arrangement, description, and narrative.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://calmurgu.com/cv/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/cv/</guid>
+      <description>Last updated: 12/15/2019
+For PDF click here: PDF
+Table of Contents  Education Experience  Library Experience Other Experience   Scholarship  Journals Non-Reviewed Conferences   Continuing Education Awards Professional Membership Media Teaching Service Skills  Education  MLIS, Western University (2018)
+ Awarded Beckman Gold Medal in LIS  MA, History, McGill University (2015)
+ MRP: “Innocence is as Innocence Does!”: Edward S.W. De Cobain, Hegemonic Masculinity, and the Politics of Scandal in Victorian Britain, 1884-1893 (N.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Librarian/Faculty Interaction Data with R</title>
+      <link>https://calmurgu.com/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</guid>
+      <description>Thanks to Jesse Sadler and their blog for this information. It was very, very helpful for a novice like me. I find that I learn best when I have a specific project to practice with, with tangible goals that I can associate with my work. This is an example of one such project.
+This post is an attempt at using R to develop a process for using Librarian/Faculty interaction data in a meaningful way.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,7 +49,7 @@
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://calmurgu.com/about/</guid>
-      <description>I grew up in Windsor, Ontario, Canada, a stone&amp;rsquo;s throw from Detroit, Michigan. I studied History at the University of Windsor and McGill University in Montreal. In September 2016, I moved to London, Canada to study at Western University. From May to December 2017 I worked at the University of Waterloo. I am currently a Librarian working in digital scholarship and instruction at the New College of Florida. Though I divide my time between Windsor and Sarasota, I feel most at home in Essex County.</description>
+      <description>I grew up in Windsor, Ontario, Canada, a stone&#39;s throw from Detroit, Michigan. I studied History at the University of Windsor and McGill University in Montreal. In September 2016, I moved to London, Canada to study Library Science at Western University. From May to December 2017 I worked in Bibliometrics at the University of Waterloo. I am currently a Librarian working in digital scholarship and instruction at the New College of Florida.</description>
     </item>
     
     <item>
@@ -27,19 +59,7 @@
       
       <guid>https://calmurgu.com/__index/</guid>
       <description>Last updated: 07/09/2019
-Table of Contents  Education Experience  Library Experience Other Experience  Scholarship  Journals Non-Reviewed Conferences  Continuing Education Awards Professional Membership Media Teaching Service Skills  Education  MLIS, Western University (2018)
- Awarded Beckman Gold Medal in LIS  MA, History, McGill University (2015)
- MRP: “Innocence is as Innocence Does!”: Edward S.W. De Cobain, Hegemonic Masculinity, and the Politics of Scandal in Victorian Britain, 1884-1893 N.</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://calmurgu.com/cv/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/cv/</guid>
-      <description>Last updated: 07/09/2019
-Table of Contents  Education Experience  Library Experience Other Experience  Scholarship  Journals Non-Reviewed Conferences  Continuing Education Awards Professional Membership Media Teaching Service Skills  Education  MLIS, Western University (2018)
+Table of Contents  Education Experience  Library Experience Other Experience   Scholarship  Journals Non-Reviewed Conferences   Continuing Education Awards Professional Membership Media Teaching Service Skills  Education  MLIS, Western University (2018)
  Awarded Beckman Gold Medal in LIS  MA, History, McGill University (2015)
  MRP: “Innocence is as Innocence Does!”: Edward S.W. De Cobain, Hegemonic Masculinity, and the Politics of Scandal in Victorian Britain, 1884-1893 N.</description>
     </item>
@@ -50,8 +70,8 @@ Table of Contents  Education Experience  Library Experience Other Experience  Sc
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://calmurgu.com/posts/2019/02/its-time-to-go-jeff/</guid>
-      <description>When Jeffrey Beall retired from the Auroria Library at the University of Colorado at Denver in March 2018, half of the scholarly publishing world applauded him for his efforts against &amp;ldquo;predatory publishers.&amp;rdquo; The other half let out a massive sigh of relief. Beall&amp;rsquo;s retirement succeeded a prolonged period of scandal in some academic circles.
-In the years leading up to his retirement, Beall began to receive increasingly negative attention for his now infamous &amp;ldquo;Beall&amp;rsquo;s list,&amp;rdquo; a blacklist of potentially predatory publishers that he himself had curated since 2008 (presumably on his free time, and not while working at the Auroria Library).</description>
+      <description>When Jeffrey Beall retired from the Auroria Library at the University of Colorado at Denver in March 2018, half of the scholarly publishing world applauded him for his efforts against &amp;ldquo;predatory publishers.&amp;rdquo; The other half let out a massive sigh of relief. Beall&#39;s retirement succeeded a prolonged period of scandal in some academic circles.
+In the years leading up to his retirement, Beall began to receive increasingly negative attention for his now infamous &amp;ldquo;Beall&#39;s list,&amp;rdquo; a blacklist of potentially predatory publishers that he himself had curated since 2008 (presumably on his free time, and not while working at the Auroria Library).</description>
     </item>
     
     <item>
@@ -60,7 +80,7 @@ In the years leading up to his retirement, Beall began to receive increasingly n
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://calmurgu.com/posts/2018/07/on-library-jobs/</guid>
-      <description>This post is primarily for graduate students in LIS that are looking for some anecdotal information about what it’s like to look for work in the information field. It&amp;rsquo;s a pretty nasty proposition. In general, this post is like many others in an emerging genre, prompted by Melanie Stefan&amp;rsquo;s &amp;ldquo;A CV of Failures&amp;rdquo; and Johanes Haushofer&amp;rsquo;s &amp;ldquo;CV of Failures,&amp;rdquo; which attempt to shine a spotlight on all of the things academics apply for and fail to get, be it a grant, scholarship, publication, or job.</description>
+      <description>This post is primarily for graduate students in LIS that are looking for some anecdotal information about what it’s like to look for work in the information field. It&#39;s a pretty nasty proposition. In general, this post is like many others in an emerging genre, prompted by Melanie Stefan&#39;s &amp;ldquo;A CV of Failures&amp;rdquo; and Johanes Haushofer&#39;s &amp;ldquo;CV of Failures,&amp;quot; which attempt to shine a spotlight on all of the things academics apply for and fail to get, be it a grant, scholarship, publication, or job.</description>
     </item>
     
     <item>
@@ -79,7 +99,7 @@ In the years leading up to his retirement, Beall began to receive increasingly n
       
       <guid>https://calmurgu.com/posts/2017/06/on-metrics-and-acknowledgement-texts/</guid>
       <description>===
-At first glance, these metrics are innocuous. In an increasingly austere environment, measurement and quantitative evaluation have become part and parcel of the machinery of academia at all levels, normalized for provosts, students, and everyone in between. However, having given this a little more thought, I think that the most sinister thing about these metrics is that they&amp;rsquo;re increasingly being self-imposed; that is, governments, in an act of &amp;lsquo;magnanimity&amp;rsquo;, are encouraging institutions to identify which measures they&amp;rsquo;d like to be held to account on.</description>
+At first glance, these metrics are innocuous. In an increasingly austere environment, measurement and quantitative evaluation have become part and parcel of the machinery of academia at all levels, normalized for provosts, students, and everyone in between. However, having given this a little more thought, I think that the most sinister thing about these metrics is that they&#39;re increasingly being self-imposed; that is, governments, in an act of &amp;lsquo;magnanimity&amp;rsquo;, are encouraging institutions to identify which measures they&#39;d like to be held to account on.</description>
     </item>
     
     <item>
@@ -89,25 +109,6 @@ At first glance, these metrics are innocuous. In an increasingly austere environ
       
       <guid>https://calmurgu.com/posts/2017/05/mother-tongues/</guid>
       <description>When I was about 8 or 9 I renounced Romanian and began to think and dream exclusively in English. To renounce my mother tongue was an active decision. I remember the day that I said to myself, &amp;ldquo;English is my language now and I must learn it and embrace it.&amp;rdquo; I said this immediately following a spelling test in which I misspelled &amp;ldquo;Dad&amp;rdquo;; I wrote down &amp;ldquo;Dod.&amp;rdquo; I had just started school.</description>
-    </item>
-    
-    <item>
-      <title>On DH and Digital Archives</title>
-      <link>https://calmurgu.com/posts/2017/04/on-dh-and-digital-archives/</link>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/posts/2017/04/on-dh-and-digital-archives/</guid>
-      <description>This post was originally published as a MediaCommons Field Guide. You can read the original, along with other responses on the question of the future of the archive, here. 
-I’ll start off by disclosing that I am not an archivist; my perspective is informed by the time I’ve spent in archives as a researcher, and the work that I’ve been doing recently on digital historiography. In a way, I’m an outsider looking in.</description>
-    </item>
-    
-    <item>
-      <title>The new Trump Library</title>
-      <link>https://calmurgu.com/posts/2016/11/the-new-trump-library/</link>
-      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/posts/2016/11/the-new-trump-library/</guid>
-      <description>About three weeks ago, back when the world made sense and talk of Donald Trump in the Oval Office was almost exclusively preceded by a “wouldn’t it be hilarious if,” Robert Darnton, Carl H. Pforzheimer University Professor and University Librarian Emeritus at Harvard, mused about the future of the Library of Congress in a Clinton administration. “When the new president, if she is Hillary Clinton, moves into the White House,” asks Darnton, “will she unpack her library in the spirit of Walter Benjamin—releasing memories of adventures attached to books?</description>
     </item>
     
   </channel>
