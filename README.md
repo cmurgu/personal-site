@@ -1,3 +1,3 @@
-# hugo
+# calmurgu.com
 
-Personal page.
+Repository for calmurgu.com. 
