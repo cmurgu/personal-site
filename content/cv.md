@@ -309,13 +309,15 @@ Graduate Representative, Graduate Studies Committee, McGill University		(2015)
 
 ## Skills  <a id="skills"></a>
 
+
 ### Technical Skills
+
 #### Software
 * 	Adobe Creative Suite, Microsoft Office Suite, OpenRefine
 *	Mendeley, RefWorks, Zotero
 
 #### Markup, Programming, Frameworks and Query Languages
-Comfortable writing, running, and troubleshooting scripts that deal with text manipulation or visualization. 
+Comfortable writing and troubleshooting scripts that deal with text manipulation or visualization. 
 
 *  HTML, CSS, XML
 *	Basic Python
@@ -323,13 +325,14 @@ Comfortable writing, running, and troubleshooting scripts that deal with text ma
 *	Basic SQL
 * 	Basic JS, PHP
 * 	Basic Bash
+*  Git
 *  Hugo, Jekyll
 
 #### Content Management Systems
-*  D2L, LibApps, Sobek
+*  D2L, LibApps, Sobek, Canvas
 *	Drupal, DSpace, Digital Commons, GRAV
 *  Minimal Computing: Wax, Ed, CollectionBuilder
-*	WordPress, OJS, Omeka, Arches, Mukurtu
+*	WordPress, OJS, Omeka, Mukurtu
 
 ### Language Skills
 * English (Fluent)
