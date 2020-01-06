@@ -10,23 +10,6 @@ Last updated: 12/15/2019
 
 For PDF click here: [PDF](https://drive.google.com/file/d/1YI8f66qjm70vPToY5M25LJ1zLy5qv6Nw/view?usp=sharing)
 
-# Table of Contents
-  * [Education](#education)
-  * [Experience](#experience)
-  	* [Library Experience](#experience)
-  	* [Other Experience](#other)
-  * [Scholarship](#scholarship)
-  	* [Journals](#journal)
-  	* [Non-Reviewed](#non-reviewed)
-  	* [Conferences](#conference)
-  * [Continuing Education](#con-ed)
-  * [Awards](#award)
-  * [Professional Membership](#professional)
-  * [Media](#news)
-  * [Teaching](#courses)
-  * [Service](#service)
-  * [Skills](#skills)
- 
 
 ## Education <a id="education"></a>
 
