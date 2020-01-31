@@ -35,19 +35,6 @@ Library Experience  Research, Instruction, and Digital Humanities Librarian, New
     </item>
     
     <item>
-      <title>CV</title>
-      <link>https://calmurgu.com/cv1/</link>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/cv1/</guid>
-      <description>Last updated: 12/15/2019
-For PDF click here: PDF
-Table of Contents  Education Experience  Library Experience Other Experience   Scholarship  Journals Non-Reviewed Conferences   Continuing Education Awards Professional Membership Media Teaching Service Skills  Education  MLIS, Western University (2018)
- Awarded Beckman Gold Medal in LIS  MA, History, McGill University (2015)
- MRP: “Innocence is as Innocence Does!”: Edward S.W. De Cobain, Hegemonic Masculinity, and the Politics of Scandal in Victorian Britain, 1884-1893 (N.</description>
-    </item>
-    
-    <item>
       <title>Visualizing Librarian/Faculty Interaction Data with R</title>
       <link>https://calmurgu.com/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
@@ -63,7 +50,7 @@ This post is an attempt at using R to develop a process for using Librarian/Facu
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://calmurgu.com/about/</guid>
-      <description>I grew up in Windsor, Ontario, Canada, a stone&#39;s throw from Detroit, Michigan. I studied History at the University of Windsor and McGill University in Montreal. In September 2016, I moved to London, Canada to study Library Science at Western University. From May to December 2017 I worked in Bibliometrics at the University of Waterloo. I am currently a Librarian working in digital scholarship and instruction at the New College of Florida.</description>
+      <description>I grew up in Windsor, Ontario, Canada, a stone&amp;rsquo;s throw from Detroit, Michigan. I studied History at the University of Windsor and McGill University in Montreal. In September 2016, I moved to London, Canada to study Library Science at Western University. From May to December 2017 I worked in Bibliometrics at the University of Waterloo. I am currently a Librarian working in digital scholarship and instruction at the New College of Florida.</description>
     </item>
     
     <item>
@@ -84,8 +71,8 @@ Table of Contents  Education Experience  Library Experience Other Experience   S
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://calmurgu.com/posts/2019/02/its-time-to-go-jeff/</guid>
-      <description>When Jeffrey Beall retired from the Auroria Library at the University of Colorado at Denver in March 2018, half of the scholarly publishing world applauded him for his efforts against &amp;ldquo;predatory publishers.&amp;rdquo; The other half let out a massive sigh of relief. Beall&#39;s retirement succeeded a prolonged period of scandal in some academic circles.
-In the years leading up to his retirement, Beall began to receive increasingly negative attention for his now infamous &amp;ldquo;Beall&#39;s list,&amp;rdquo; a blacklist of potentially predatory publishers that he himself had curated since 2008 (presumably on his free time, and not while working at the Auroria Library).</description>
+      <description>When Jeffrey Beall retired from the Auroria Library at the University of Colorado at Denver in March 2018, half of the scholarly publishing world applauded him for his efforts against &amp;ldquo;predatory publishers.&amp;rdquo; The other half let out a massive sigh of relief. Beall&amp;rsquo;s retirement succeeded a prolonged period of scandal in some academic circles.
+In the years leading up to his retirement, Beall began to receive increasingly negative attention for his now infamous &amp;ldquo;Beall&amp;rsquo;s list,&amp;rdquo; a blacklist of potentially predatory publishers that he himself had curated since 2008 (presumably on his free time, and not while working at the Auroria Library).</description>
     </item>
     
     <item>
@@ -94,7 +81,7 @@ In the years leading up to his retirement, Beall began to receive increasingly n
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://calmurgu.com/posts/2018/07/on-library-jobs/</guid>
-      <description>This post is primarily for graduate students in LIS that are looking for some anecdotal information about what it’s like to look for work in the information field. It&#39;s a pretty nasty proposition. In general, this post is like many others in an emerging genre, prompted by Melanie Stefan&#39;s &amp;ldquo;A CV of Failures&amp;rdquo; and Johanes Haushofer&#39;s &amp;ldquo;CV of Failures,&amp;quot; which attempt to shine a spotlight on all of the things academics apply for and fail to get, be it a grant, scholarship, publication, or job.</description>
+      <description>This post is primarily for graduate students in LIS that are looking for some anecdotal information about what it’s like to look for work in the information field. It&amp;rsquo;s a pretty nasty proposition. In general, this post is like many others in an emerging genre, prompted by Melanie Stefan&amp;rsquo;s &amp;ldquo;A CV of Failures&amp;rdquo; and Johanes Haushofer&amp;rsquo;s &amp;ldquo;CV of Failures,&amp;quot; which attempt to shine a spotlight on all of the things academics apply for and fail to get, be it a grant, scholarship, publication, or job.</description>
     </item>
     
     <item>
@@ -113,7 +100,16 @@ In the years leading up to his retirement, Beall began to receive increasingly n
       
       <guid>https://calmurgu.com/posts/2017/06/on-metrics-and-acknowledgement-texts/</guid>
       <description>===
-At first glance, these metrics are innocuous. In an increasingly austere environment, measurement and quantitative evaluation have become part and parcel of the machinery of academia at all levels, normalized for provosts, students, and everyone in between. However, having given this a little more thought, I think that the most sinister thing about these metrics is that they&#39;re increasingly being self-imposed; that is, governments, in an act of &amp;lsquo;magnanimity&amp;rsquo;, are encouraging institutions to identify which measures they&#39;d like to be held to account on.</description>
+At first glance, these metrics are innocuous. In an increasingly austere environment, measurement and quantitative evaluation have become part and parcel of the machinery of academia at all levels, normalized for provosts, students, and everyone in between. However, having given this a little more thought, I think that the most sinister thing about these metrics is that they&amp;rsquo;re increasingly being self-imposed; that is, governments, in an act of &amp;lsquo;magnanimity&amp;rsquo;, are encouraging institutions to identify which measures they&amp;rsquo;d like to be held to account on.</description>
+    </item>
+    
+    <item>
+      <title>Mother tongues</title>
+      <link>https://calmurgu.com/posts/2017/05/mother-tongues/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/posts/2017/05/mother-tongues/</guid>
+      <description>When I was about 8 or 9 I renounced Romanian and began to think and dream exclusively in English. To renounce my mother tongue was an active decision. I remember the day that I said to myself, &amp;ldquo;English is my language now and I must learn it and embrace it.&amp;rdquo; I said this immediately following a spelling test in which I misspelled &amp;ldquo;Dad&amp;rdquo;; I wrote down &amp;ldquo;Dod.&amp;rdquo; I had just started school.</description>
     </item>
     
   </channel>

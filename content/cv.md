@@ -89,7 +89,7 @@ For PDF click here: [PDF](https://drive.google.com/file/d/1YI8f66qjm70vPToY5M25L
 
 ### Journal Articles <a id="journal"></a>
 
-[5] A. Kutlay* and C. Murgu, "Shiny _Fabric_: A Lightweight, Open-source App for Visualizing and Reporting Library Relationships," *Code4Lib*, Iss. 47, Feb. 2020.
+[5] A. Kutlay* and C. Murgu, "Shiny Fabric: A Lightweight, Open-source App for Visualizing and Reporting Library Relationships," Code4Lib, Iss. 47, Feb. 2020.
 
 [4] A. Fairweather, C. Murgu, and T. Race, "Diving into Digital on a Small-scale:
 Digital curricula and technology-based education at the New College of Florida," _Distance Learning Journal_, vol. 16, no. 2 (forthcoming in Spring 2020).
@@ -224,11 +224,13 @@ Membership in the Canadian Association for Professional Academic Librarians
 
 ## Teaching	 <a id="courses"></a>
 
+Tutorial (Full term, full credit) — _Digital Storytelling and Visual Journalism_, Spring 2020
+
 Independent Study Project — _LGBTQ+ Reference Database_, Spring 2020 (Lee Collins)
 
 Independent Study Project — _Podcasting and Digital Storytelling_, Spring 2020 (David Perkins, Sergio Salinas)
 
-Independent Study Project — _Digital Humanities and Music Composition_, Spring 2020(Emma Solloway)
+Independent Study Project — [_Digital Humanities and Music Composition_](https://dss.ncf.edu/class/ISP/musicdh), Spring 2020 (Emma Solloway)
 
 Tutorial (Full term, full credit) — _Texts + Technologies: An Introduction to Digital Methods in the Humanities_, Fall 2019
 
@@ -255,6 +257,8 @@ Digital Initiatives Standing Committee, Vice-Chair, FLVC 	(2019 — ongoing)
 Executive Member, Florida Digital Humanities Consortium 	(2019 — ongoing)
 
 ### Campus Wide Committees
+
+Hiring Committee, Research, Instruction, Data Services Librarian    (2020)
 
 Hiring Committee, Director of ORPS, New College 	(2019)
 

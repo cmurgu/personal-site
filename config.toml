@@ -1,4 +1,8 @@
-baseURL = "https://calmurgu.com"
+baseURL = "https://calmurgu.com/"
+
+googleAnalytics = "UA-133826325-3"
+# disqusShortname = ""
+
 title   = "Cal Murgu"
 
 DefaultContentLanguage = "en"
@@ -10,9 +14,6 @@ PygmentsStyle = "monokai"
 
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-
-# googleAnalytics = ""
-# disqusShortname = ""
 
 archetypeDir = "archetypes"
 contentDir   = "content"
