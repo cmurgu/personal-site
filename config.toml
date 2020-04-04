@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Cal Murgu's personal webpage!"
+  description = "Cal Murgu's personal webpage"
   keywords = "Cal Murgu, personal webpage, blog, site, CV, librarian"
   images = [""]
 
@@ -75,7 +75,7 @@ disableHugoGeneratorInject = false
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   themeColor = "#252627"
 
   [params.logo]
