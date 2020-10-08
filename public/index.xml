@@ -6,18 +6,103 @@
     <description>Recent content on Cal Murgu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://calmurgu.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>On Sentiment, Music, and Digital Humanities</title>
-      <link>https://calmurgu.com/posts/2020/01/on-sentiment-music-and-digital-humanities/</link>
+      <title>CV</title>
+      <link>https://calmurgu.com/cv/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/cv/</guid>
+      <description>Last updated: 08/04/2020
+Education  MLIS, Western University (2018)
+ Awarded Beckman Gold Medal in LIS  MA, History, McGill University (2015)
+ MRP: “Innocence is as Innocence Does!”: Edward S.W. De Cobain, Hegemonic Masculinity, and the Politics of Scandal in Victorian Britain, 1884-1893 (N.B: Later published as article in Gender &amp;amp; History.)  BA, Honours History, Literature Minor, University of Windsor (2014)
+Library Experience  Interim Director of Educational Technology Services, New College of Florida (2020-)</description>
+    </item>
+    
+    <item>
+      <title>A Critical Approach to Building Digital Collections</title>
+      <link>https://calmurgu.com/lessons/a-critical-approach-to-building-digital-collections/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/lessons/a-critical-approach-to-building-digital-collections/</guid>
+      <description>HUMN Bodies and Minds Group Project For this assignment you’ll be using CollectionBuilder, an open-source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology, and Github, a free repository service, to create your own digital collections of archival material. Our archival material will be sourced from the Ringling Archives (special thanks to the Ringling Archives staff for supporting this assignment).</description>
+    </item>
+    
+    <item>
+      <title>Critical Digital Literacy and Web Archives</title>
+      <link>https://calmurgu.com/lessons/critical-digital-literacy-with-web-archives/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/lessons/critical-digital-literacy-with-web-archives/</guid>
+      <description>Lesson Plan
+Learning Outcomes
+  Students will read a text on web archives and demonstrate good comprehension of the text and technology explained therein
+  Students will be able to explain how contemporary historical research can be conducted using web archives
+  Students will be able to identify potential problems, challenges, and opportunities of web archive use in historical research
+  Students will learn how to find web archive collections and use them for historical research</description>
+    </item>
+    
+    <item>
+      <title>Digital Scholarship Studio Session #1 — Text Analysis with Python</title>
+      <link>https://calmurgu.com/lessons/digital-scholarship-labs-online-session/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/lessons/digital-scholarship-labs-online-session/</guid>
+      <description>As a result of the COVID19 pandemic, all in-person library workshops were cancelled, including the Digital Scholarship Studio Lab sessions. The video and repository below were produced in response to give participants a way to continue learning in a modified format.
+Lesson You can find the lesson repository here: https://github.com/ncflib/DSS-2020-Spring-Workshop
+Video You can find the online learning object here: https://drive.google.com/file/d/1hzBUb52xP41W3Qy5axcyLMc7h05HBWcI/view?usp=sharing</description>
+    </item>
+    
+    <item>
+      <title>On Slowing Down and Learning to Make Bread Properly</title>
+      <link>https://calmurgu.com/posts/2020/04/on-slowing-down-and-learning-to-make-bread-properly/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/posts/2020/04/on-slowing-down-and-learning-to-make-bread-properly/</guid>
+      <description>To avoid being what seemed at the time like the last person on Twitter to not know how to make sourdough bread, I embarked on a bit of a journey. I wanted to start and take care of a sourdough culture (what some have called a new — but very, very old — Tamagotchi) and bake some tasty bread with it. What you see above is the first of several failed attempts at sourdough baking.</description>
+    </item>
+    
+    <item>
+      <title>Academic library job openings during COVID19 🚨</title>
+      <link>https://calmurgu.com/posts/2020/04/academic-library-job-openings-during-covid19/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/posts/2020/04/academic-library-job-openings-during-covid19/</guid>
+      <description>The job market for positions in academic librarianship has never been particularly great, but COVID19 promises to shake up hiring across higher-ed.
+This page tracks the number of academic library positions posted on ALA Job Board and the Canadian Partnership job site. While these two sites do not represent a complete list of available positions, they&#39;re arguably the most popular job websites for Canadian and American academic library roles. Historical job data is difficult to find, so comparing M or YTD is challenging, but using the data collected by the folks at LIS Precarity I compare the number of jobs available today to that of last year.</description>
+    </item>
+    
+    <item>
+      <title>Covid-19 Academic Library Closures in US and Canada</title>
+      <link>https://calmurgu.com/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</guid>
+      <description>Covid-19 Academic Library Closures in US and Canada :: Cal Murgu — Hello Friend   h1, h2, h3, h4, h5 { font-family: &#39;Roboto&#39;, sans-serif; font-style: normal; font-weight: bold; } html { letter-spacing: 0em; } a.button1 { display: inline-block; padding: 0.35em 1.2em; border: 0.1em solid black; margin: 0 0.3em 0.3em 0; border-radius: 0.12em; box-sizing: border-box; text-decoration: none; font-family: &#39;Roboto&#39;, sans-serif; font-weight: 300; color: gray; text-align: center; transition: all 0.</description>
+    </item>
+    
+    <item>
+      <title>On making things</title>
+      <link>https://calmurgu.com/posts/2020/02/on-making-things/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://calmurgu.com/posts/2020/02/on-making-things/</guid>
+      <description>I like many things about being an academic librarian: the freedom to explore interesting and creative topics with students and other faculty; the latitude to create programs and programming; the thrill and excitement of instruction; creating new digital objects; constantly having to learn new things and methods. I could go on.
+I also dislike a few things about being an academic librarian. LibGuides, for instance (sorry not sorry), are near the top of that list.</description>
+    </item>
+    
+    <item>
+      <title>Representing Sentiment Scores of Specific Locations with Original Music. An exercise in musicdh</title>
+      <link>https://calmurgu.com/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://calmurgu.com/posts/2020/01/on-sentiment-music-and-digital-humanities/</guid>
-      <description> </description>
+      <guid>https://calmurgu.com/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</guid>
+      <description>In Spring 2020, I had the opportunity to co-sponsor an independent study project for 2nd year student at New College. The objective seemed simple enough: study the intersection of music and the digital humanities and produce a project that represents that intersection. It seems to me that the fields of musicology and music composition have not been affected by the digital humanities to the same degree as other fields. With respect to the latter, perhaps this is because composition turned towards the digital decades ago.</description>
     </item>
     
     <item>
@@ -27,89 +112,6 @@
       
       <guid>https://calmurgu.com/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</guid>
       <description>While a Digital Projects Coordinator at the University of Windsor in 2015-16, I remember thinking that Omeka would revolutionize the way we create and teach about digital exhibits, metadata, and the subtle acts involved in digital collecting. Here was a relatively lightweight CMS that enabled us to spin up new instances almost immediately. With set-up a breeze, we could focus our attention on the intellectual work of arrangement, description, and narrative.</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://calmurgu.com/cv/</link>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/cv/</guid>
-      <description>Last updated: 12/15/2019
-For PDF click here: PDF
-Education  MLIS, Western University (2018)
- Awarded Beckman Gold Medal in LIS  MA, History, McGill University (2015)
- MRP: “Innocence is as Innocence Does!”: Edward S.W. De Cobain, Hegemonic Masculinity, and the Politics of Scandal in Victorian Britain, 1884-1893 (N.B: Later published as article in Gender &amp;amp; History.)  BA, Honours History, Literature Minor, University of Windsor (2014)
-Library Experience  Research, Instruction, and Digital Humanities Librarian, New College of Florida (2018)</description>
-    </item>
-    
-    <item>
-      <title>Visualizing Librarian/Faculty Interaction Data with R</title>
-      <link>https://calmurgu.com/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</guid>
-      <description>Thanks to Jesse Sadler and their blog for this information. It was very, very helpful for a novice like me. I find that I learn best when I have a specific project to practice with, with tangible goals that I can associate with my work. This is an example of one such project.
-This post is an attempt at using R to develop a process for using Librarian/Faculty interaction data in a meaningful way.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://calmurgu.com/about/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/about/</guid>
-      <description>I grew up in Windsor, Ontario, Canada, a stone&amp;rsquo;s throw from Detroit, Michigan. I studied History at the University of Windsor and McGill University in Montreal. In September 2016, I moved to London, Canada to study Library Science at Western University. From May to December 2017 I worked in Bibliometrics at the University of Waterloo. I am currently a Librarian working in digital scholarship and instruction at the New College of Florida.</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://calmurgu.com/__index/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/__index/</guid>
-      <description>Last updated: 07/09/2019
-Table of Contents  Education Experience  Library Experience Other Experience   Scholarship  Journals Non-Reviewed Conferences   Continuing Education Awards Professional Membership Media Teaching Service Skills  Education  MLIS, Western University (2018)
- Awarded Beckman Gold Medal in LIS  MA, History, McGill University (2015)
- MRP: “Innocence is as Innocence Does!”: Edward S.W. De Cobain, Hegemonic Masculinity, and the Politics of Scandal in Victorian Britain, 1884-1893 N.</description>
-    </item>
-    
-    <item>
-      <title>It&#39;s time to go, Jeff</title>
-      <link>https://calmurgu.com/posts/2019/02/its-time-to-go-jeff/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/posts/2019/02/its-time-to-go-jeff/</guid>
-      <description>When Jeffrey Beall retired from the Auroria Library at the University of Colorado at Denver in March 2018, half of the scholarly publishing world applauded him for his efforts against &amp;ldquo;predatory publishers.&amp;rdquo; The other half let out a massive sigh of relief. Beall&amp;rsquo;s retirement succeeded a prolonged period of scandal in some academic circles.
-In the years leading up to his retirement, Beall began to receive increasingly negative attention for his now infamous &amp;ldquo;Beall&amp;rsquo;s list,&amp;rdquo; a blacklist of potentially predatory publishers that he himself had curated since 2008 (presumably on his free time, and not while working at the Auroria Library).</description>
-    </item>
-    
-    <item>
-      <title>On library jobs</title>
-      <link>https://calmurgu.com/posts/2018/07/on-library-jobs/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/posts/2018/07/on-library-jobs/</guid>
-      <description>This post is primarily for graduate students in LIS that are looking for some anecdotal information about what it’s like to look for work in the information field. It&amp;rsquo;s a pretty nasty proposition. In general, this post is like many others in an emerging genre, prompted by Melanie Stefan&amp;rsquo;s &amp;ldquo;A CV of Failures&amp;rdquo; and Johanes Haushofer&amp;rsquo;s &amp;ldquo;CV of Failures,&amp;quot; which attempt to shine a spotlight on all of the things academics apply for and fail to get, be it a grant, scholarship, publication, or job.</description>
-    </item>
-    
-    <item>
-      <title>On Conflating Values</title>
-      <link>https://calmurgu.com/posts/2017/07/on-conflating-values/</link>
-      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/posts/2017/07/on-conflating-values/</guid>
-      <description>And so, given their pervasive nature and ability “to foster broad changes, both intended and unintended, in the activities that they monitor, social measures deserve closer scholarly attention.” It seems that we have embraced, albeit to different degrees, the practice of ranking institutional repositories. I find this development problematic because it extends the language and logic of markets to an initiative that has heretofore been fueled by magnanimity, author rights, and social justice, first, and capital, second.</description>
-    </item>
-    
-    <item>
-      <title>On Metrics and Acknowledgement Texts</title>
-      <link>https://calmurgu.com/posts/2017/06/on-metrics-and-acknowledgement-texts/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://calmurgu.com/posts/2017/06/on-metrics-and-acknowledgement-texts/</guid>
-      <description>===
-At first glance, these metrics are innocuous. In an increasingly austere environment, measurement and quantitative evaluation have become part and parcel of the machinery of academia at all levels, normalized for provosts, students, and everyone in between. However, having given this a little more thought, I think that the most sinister thing about these metrics is that they&amp;rsquo;re increasingly being self-imposed; that is, governments, in an act of &amp;lsquo;magnanimity&amp;rsquo;, are encouraging institutions to identify which measures they&amp;rsquo;d like to be held to account on.</description>
     </item>
     
   </channel>

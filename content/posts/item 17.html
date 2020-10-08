@@ -137,7 +137,7 @@ I&rsquo;ve brought together a few different sources to display the growing numbe
 </head>
 
 <body class="">
-    <p>Last update: continuous</p>
+    <p>Last update: 04/06/2020</p>
 
     </header>
 
@@ -148,17 +148,12 @@ I&rsquo;ve brought together a few different sources to display the growing numbe
             <div style="background-color:lightcyan ; padding-right: 10px; padding-left: 10px; padding-bottom: 10px;"
                 id="close" role="alert">
                 <h1>Please note</h1>
-                <p>We know of <strong><span id="alert-total"></span></strong> academic libraries that have closed as
-                    a result of COVID19 in Canada and the United States. That's only <strong><span
-                            id="percent"></span></strong> of academic libraries in North America. As responses to
-                    COVID19 have escalated, many more of the <a
-                        href="https://docs.google.com/spreadsheets/d/1_bsbtnWlw8xvARxa-26LOQlfXo40iiQO6oU3yLCQ3r8/edit#gid=1309996406">6500+</a>
-                    academic libraries in North America have closed. If you do not see your library below, please
-                    consider including it <a href="https://t.co/s3PN7zNYee?amp=1">here</a> so that we can update the
-                    visualizations.</p>
-                <button type="button" class="close" onclick="hide()" data-dismiss="alert" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
+                <p>As of 04/06/2020, I am no longer updating these charts. For more information about this data and the
+                    status of library closures visit <a href="https://t.co/s3PN7zNYee?amp=1">this link.</a><button
+                        type="button" style="block: inline-block;" class="close" onclick="hide()" data-dismiss="alert"
+                        aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button></p>
             </div>
             <script>function hide() {
                     document.getElementById('close').style.display = 'none';
@@ -414,6 +409,7 @@ I&rsquo;ve brought together a few different sources to display the growing numbe
                     final = data['Final'].elements;
                     total = final.length;
                     number = total;
+                    console.log("Hello!")
                     document.getElementById('total').innerHTML = total;
                     document.getElementById('alert-total').innerHTML = total;
                     document.getElementById('percent').innerHTML = Math.floor(6858 / total) + '%';
@@ -423,7 +419,6 @@ I&rsquo;ve brought together a few different sources to display the growing numbe
         }
         window.addEventListener('DOMContentLoaded', init)
     </script>
-
 
     <style>
         .footer-block.attribution {

@@ -1,15 +1,12 @@
 +++
 title = "CV"
-date = "2019-09-17"
+date = "2020-08-04"
 aliases = ["cv","curriculum vitae","contact"]
 [ author ]
   name = "Cal Murgu"
 +++
 
-Last updated: 12/15/2019
-
-For PDF click here: [PDF](https://drive.google.com/file/d/1YI8f66qjm70vPToY5M25LJ1zLy5qv6Nw/view?usp=sharing)
-
+Last updated: 08/04/2020
 
 ## Education <a id="education"></a>
 
@@ -25,7 +22,15 @@ For PDF click here: [PDF](https://drive.google.com/file/d/1YI8f66qjm70vPToY5M25L
 
 ## Library Experience <a id="experience"></a>
 
-**Research, Instruction, and Digital Humanities Librarian**, New College of Florida (2018)
+**Interim Director of Educational Technology Services**, New College of Florida (2020-)
+
+* Coordinating Educational Technology Services, the Academic Resource Center, and administers Canvas (Instructure), the campus learning management system.
+* Working with individual faculty to understand the teaching/learning environment, review technological options related to teaching needs, collaborate with faculty to identify technologies that will enhance learning, and train faculty to use new technology.
+* Promoting the use of effective technology tools to enhance teaching, research, and educational projects.
+* Maintaining relationships with Library staff, academic divisions or disciplinary units and with technology service providers throughout NCF to explore new hardware and software tools, obtain resources, and advocate appropriate technology responses to faculty and student needs.
+* Chairing the Fall 2020 Planning Group, a working group focused on recommending best practices for online remote delivery in the context of a pandemic.
+
+**Research, Instruction, and Digital Humanities Librarian**, New College of Florida (2018-)
 
 * Working collaboratively with faculty, students, staff and other librarians on established digital projects, as well as providing support for new digital scholarship projects (data viz, network graphs, GIS, text analysis, CMS)
 * Coordinating scholarly communications, including OA and institutional repository [Open@NCF](http://ncf.sobek.ufl.edu/openncf)
@@ -107,6 +112,9 @@ Information Studies_, vol. 1, no. 1, pp. 1–22, (2017).
 
 ### Under Review or In Progress 
 
+[3] C. Murgu, "Leveraging Virtual Reality to Create Virtual Art Exhibitions," _50+ Virtual, Augmented, and Mixed Reality Programs in Libraries_,
+edited by Ellyssa Kroski, forthcoming in 2020, published by The American Library Association.
+
 [2] C. Murgu, "What's .warc got to do with it?: Librarianship, Digital Literacy, and Supporting New Modes of Historical Scholarship ," in preparation.
 
 [1] C. Murgu, "Web Archives, Critical Digital Literacy, and the Growing Primacy of Born Digital Objects," forthcoming in *Critical Library Pedagogy*, 2020.
@@ -116,7 +124,11 @@ Information Studies_, vol. 1, no. 1, pp. 1–22, (2017).
 
 [1] C. Murgu, “[DH and the Digital Archive](http://mediacommons.org/fieldguide/question/what-role-digital-humanities-future-archive/response/dh-and-digital-archive),” in _MediaCommons Field Guide_, May 2017.
 
-### Selected Conference Papers and Posters <a id="conference"></a>
+### Selected Conference Papers, Presentations, and Posters <a id="conference"></a>
+
+[12] C. Murgu, "Digital Humanities Start-Up Grant Retrospective: Towards a Sustainability Index for Grant Funded DH Projects", Lightning Paper, Alliance of Digital Humanities Organizations, 2020 [Cancelled as a result of COVID19].
+
+[11] C. Murgu, A. Kutlay*, "_Fabric_: A 'Shiny' Tool for Visualizing Library Relationships," Code4Lib Lightning Talk, 2020, [YouTube Link](https://youtu.be/7NvKfTSr7eU?t=8034).
 
 [10] C. Murgu, "Introducing _Fabric_: Using R (Shiny) to Create Open Source Tools for Visualizing Library Networks," DSS ALA Midwinter (Virtual).
 
@@ -149,6 +161,8 @@ Graduate History Conference, McGill University, Montreal, Quebec, Canada.
 Feb 2016.
 
 ## Reviews <a id="editing"></a>
+
+[4] General reviewer for the *Journal of Academic Librarianship*.
 
 [3] General reviewer for *ADHO2020*.
 
@@ -224,6 +238,8 @@ Membership in the Canadian Association for Professional Academic Librarians
 
 ## Teaching	 <a id="courses"></a>
 
+With Manu Lopez, Course (Full term, full credit) _Covid19: An Interdisciplinary Approach to the Pandemic_, Fall 2020
+
 Tutorial (Full term, full credit) — _Digital Storytelling and Visual Journalism_, Spring 2020
 
 Independent Study Project — _LGBTQ+ Reference Database_, Spring 2020 (Lee Collins)
@@ -238,6 +254,8 @@ Tutorial (Full term, half credit) — _Aeolus_ Digital Publishing Tutorial, Spri
 
 ## Media	 <a id="news"></a>
 
+"Inside The Embodied Mind," New College of Florida News, April 20, 2020, [LINK](https://news.ncf.edu/news/inside-the-embodied-mind/?fbclid=IwAR342eid7fk3rP255SLr8MRo_sLB58ioLH9D4-r-VZdI5kWivjE6lYQMk5o)
+
 "Seeking truth and passing it on, a Selby and New College collaboration," Sarasota Herald-Tribune, November 14, 2019, [LINK](https://www.heraldtribune.com/opinion/20191114/oshea-seeking-truth-and-passing-it-on-selby-and-new-college-collaboration)
 
 "New College, Selby Gardens team up to publish online research journals," New College of Florida News, September 16, 2019, [LINK](https://news.ncf.edu/news/new-college-selby-gardens-team-up-to-publish-online-research-journal/)
@@ -250,7 +268,15 @@ Tutorial (Full term, half credit) — _Aeolus_ Digital Publishing Tutorial, Spri
 
 ## Service	 <a id="Service"></a>
 
-### Regional or State Wide Committees
+### National or State Wide Committees
+
+Member of DSS Nomination Committee, ALA (2020 - 2021)
+
+Member of DSS Program Committee, ALA (2020 - 2021)
+
+Digital Initiatives Standing Committee, Chair, FLVC (2020 — ongoing)
+
+Distance Learning & Student Services, Member, FLVC (2020 — ongoing)
 
 Digital Initiatives Standing Committee, Vice-Chair, FLVC 	(2019 — ongoing)
 
@@ -258,11 +284,15 @@ Executive Member, Florida Digital Humanities Consortium 	(2019 — ongoing)
 
 ### Campus Wide Committees
 
+Academic Continuity Planning Group, Chair 	(2020)
+
 Hiring Committee, Research, Instruction, Data Services Librarian    (2020)
 
-Hiring Committee, Director of ORPS, New College 	(2019)
+Senator, New College of Florida Faculty Union (2019 - 2020)
 
-President's Policy Committee, New College 	(2019 — ongoing)
+Hiring Committee, Director of Office of Research, New College 	(2019)
+
+President's Policy Committee, New College 	(2019 — 2020)
 
 ### Library Committees
 
@@ -300,8 +330,9 @@ Graduate Representative, Graduate Studies Committee, McGill University		(2015)
 ### Technical Skills
 
 #### Software
-* 	Adobe Creative Suite, Microsoft Office Suite, OpenRefine
+* 	Adobe Creative Suite, Microsoft Office Suite, Articulate Storyline
 *	Mendeley, RefWorks, Zotero
+*	OpenRefine
 
 #### Markup, Programming, Frameworks and Query Languages
 Comfortable writing and troubleshooting scripts that deal with text manipulation or visualization. 

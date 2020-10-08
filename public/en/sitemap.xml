@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://calmurgu.com/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -18,23 +18,63 @@
   </url>
   
   <url>
-    <loc>https://calmurgu.com/posts/2020/01/on-sentiment-music-and-digital-humanities/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <loc>https://calmurgu.com/cv/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/lessons/a-critical-approach-to-building-digital-collections/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/lessons/critical-digital-literacy-with-web-archives/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/lessons/digital-scholarship-labs-online-session/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/lessons/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2020/04/on-slowing-down-and-learning-to-make-bread-properly/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://calmurgu.com/posts/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2020/04/academic-library-job-openings-during-covid19/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2020/02/on-making-things/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://calmurgu.com/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calmurgu.com/cv/</loc>
-    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -114,6 +154,16 @@
   
   <url>
     <loc>https://calmurgu.com/cv1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/cvcopy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://calmurgu.com/posts/1/01/</loc>
     <priority>0</priority>
   </url>
   
